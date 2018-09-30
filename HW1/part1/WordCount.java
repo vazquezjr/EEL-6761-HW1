@@ -5,7 +5,7 @@
     Description: Count the occurrences of all words in a set of input files
 */
 
-package HW1
+package HW1;
 
 import java.io.IOException;
 import java.util.StringTokenizer;
